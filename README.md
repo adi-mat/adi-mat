@@ -4,15 +4,15 @@ I bring 8 years of hands-on experience in software development, specializing in 
 
 💻 Here are some of the technologies and tools I frequently work with:
 
-Languages: JavaScript (ES6+), HTML5, CSS3 
-Front-End: React, TypeScript
-Full-stack: Remix, Next
-Server: Nest, Django, Node
-Build Tools: Webpack, Rollup, Babel, esbuild 
-Testing: Jest, React Testing Library, Cypress, PactumJS
-Version Control: GitHub 
-CI/CD: Jenkins, Github Actions 
-Other Skills: Responsive Web Design, Web Performance Optimization 
+Languages: JavaScript (ES6+), HTML5, CSS3   
+Front-End: React, TypeScript  
+Full-stack: Remix, Next  
+Server: Nest, Django, Node  
+Build Tools: Webpack, Rollup, Babel, esbuild  
+Testing: Jest, React Testing Library, Cypress, PactumJS  
+Version Control: GitHub  
+CI/CD: Jenkins, Github Actions  
+Other Skills: Responsive Web Design, Web Performance Optimization  
 
 I believe in continuous learning to stay on top of the ever-evolving tech landscape. Currently, I'm diving deeper into: Nest JS and Remix.js
 
