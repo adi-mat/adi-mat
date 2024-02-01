@@ -4,7 +4,7 @@ I bring 8 years of hands-on experience in software development, specializing in 
 
 💻 Here are some of the technologies and tools I frequently work with:
 
-Languages: JavaScript (ES6+), Python, C++, Java
+Languages: JavaScript (ES6+), Python, C++, Java  
 Front-End: React, TypeScript, PostCSS, SCSS, CSS Modules  
 Frameworks: Remix, Next, Django, Nest, Django  
 Build Tools: Webpack, Rollup, Babel, esbuild  
