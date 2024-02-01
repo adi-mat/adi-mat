@@ -6,7 +6,7 @@ I bring 8 years of hands-on experience in software development, specializing in 
 
 Languages: JavaScript (ES6+), Python, C++, Java  
 Front-End: React, TypeScript, PostCSS, SCSS, CSS Modules  
-Frameworks: Remix, Next, Django, Nest, Django  
+Frameworks: Remix, Next, Django, Nest  
 Build Tools: Webpack, Rollup, Babel, esbuild  
 Testing: Jest, React Testing Library, Cypress, PactumJS  
 Version Control: GitHub  
