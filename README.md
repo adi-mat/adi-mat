@@ -1,4 +1,4 @@
-Hello! 👋 I'm Aditya Matukumalli, a passionate and experienced Senior Software Engineer with a focus on building robust and scalable applications using React.js.
+Hello! 👋 I'm Aditya Matukumalli, a passionate and experienced Senior Software Engineer with a focus on building robust and scalable applications.
 
 I bring 8 years of hands-on experience in software development, specializing in front-end technologies. My journey has been fueled by a relentless pursuit of excellence, a love for clean code, and a knack for solving complex problems. I have a proven track record of delivering high-quality software solutions in fast-paced and collaborative environments.
 
